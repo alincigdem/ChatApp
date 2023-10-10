@@ -1,3 +1,5 @@
 Python kitabı
 
 Bu kitap çok güzel olacak, herkes bu kitabı çok sevecek.
+
+2.satır yazıldı.
