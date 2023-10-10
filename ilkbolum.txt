@@ -5,3 +5,5 @@ Bu kitap çok güzel olacak, herkes bu kitabı çok sevecek.
 2.satır yazıldı.
 
 Bugün branchleri öğreniyoruz.
+
+Artık son commiti'de atıyoruz.
